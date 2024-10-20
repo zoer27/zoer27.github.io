@@ -27,7 +27,7 @@ navbar-links:
     - Antarctic blue whale assessment: "https://zoer27.github.io/currentprojects/ABWAssess"
     - Estimating natural survival of blue whales: "https://zoer27.github.io/currentprojects/BWsurv"
   Education and Outreach: "https://zoer27.github.io/outreach/outreach"
-  Blog:"https://zoer27.github.io/blog/"
+  Blog: "https://zoer27.github.io/blog/"
   CV: "assesst/RandCV.pdf"
 
 #add for blog not on home page  
