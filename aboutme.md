@@ -1,16 +1,37 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Phd Student in Quantitative Ecology and Resource Management (QERM) at the University of Washington in the [Branch Lab](https://fish.uw.edu/faculty/trevor-branch). 
+I am also a 2023 [NMFS-Sea Grant Population and Ecosystem Dynamics Fellow](https://seagrant.noaa.gov/nmfs-sg-fellowship/).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I use mathematical and statistical models to study the population dynamics of baleen whales. 
+My focus is on using historical data and integrating multiple data sources to overcome biases inherent in historical data.
 
-What else do you need?
+##Education
 
-### My story
+**University of Washington** \| Seattle, WA            
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+PhD in Quantitative Ecology and Resource Management \| 
+
+Sep 2020 - Present 
+
+ **University of St Andrews** \| St Andrews, Fife, UK   
+
+MSc in Marine Mammal Science \|       
+
+Sep 2019 - Aug 2020 \| 
+
+
+**Oregon State University** \| Corvallis, OR           
+
+Post-Baccalaureate in Fisheries and Wildlife Science\| 
+
+Jan 2018 - Aug 2019 \| 
+
+**Mount Holyoke College** \| South Hadley, MA             
+
+BA in Latin American Studies \|          
+
+Sep 2012 - May 2016    

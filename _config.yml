@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Zoe R. Rand
 
 # Your name to show in the footer
-author: Some Person
+author: Zoe Rand
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,25 +21,31 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Current Projects:
+    - Movement rates of Antarctic blue whales: "https://zoer27.github.io/currentprojects/ABWmove"
+    - Fetal sex ratios of baleen whales: "https://zoer27.github.io/currentprojects/FSR"
+    - Antarctic blue whale assessment: "https://zoer27.github.io/currentprojects/ABWAssess"
+    - Estimating natural survival of blue whales: "https://zoer27.github.io/currentprojects/BWsurv"
+  Education and Outreach: "https://zoer27.github.io/outreach/outreach"
+  Blog:"https://zoer27.github.io/blog/"
+  CV: "assesst/RandCV.pdf"
 
+#add for blog not on home page  
+paginate_path: "/blog/page:num/"
 ################
 # --- Logo --- #
 ################
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar-icon.JPEG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/W_logo.png"
 
 
 #####################################
@@ -50,14 +56,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "zrand@uw.edu"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #facebook: deanattali
+  github: zoer27
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -75,7 +81,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: "https://scholar.google.com/citations?user=prRtdFkAAAAJ&hl=en"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -85,7 +91,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -93,14 +99,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "zoer27.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
