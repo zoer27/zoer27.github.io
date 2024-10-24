@@ -9,7 +9,7 @@ I am also a 2023 [NMFS-Sea Grant Population and Ecosystem Dynamics Fellow](https
 I use mathematical and statistical models to study the population dynamics of baleen whales. 
 My focus is on using historical data and integrating multiple data sources to overcome biases inherent in historical data.
 
-##Education
+## Education
 
 **University of Washington** \| Seattle, WA            
 
