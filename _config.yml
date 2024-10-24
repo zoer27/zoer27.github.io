@@ -28,7 +28,7 @@ navbar-links:
     - Estimating natural survival of blue whales: "https://zoer27.github.io/currentprojects/BWsurv"
   Education and Outreach: "https://zoer27.github.io/outreach/outreach"
   Blog: "https://zoer27.github.io/blog/"
-  CV: "assesst/RandCV.pdf"
+  CV: "assests/RandCV.pdf"
 
 #add for blog not on home page  
 paginate_path: "/blog/page:num/"
@@ -140,15 +140,15 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#3587A4"
+page-col: "#C1DFF0"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#C1DFF0"
-navbar-text-col: "#404040"
+navbar-col: "#3587A4" 
+navbar-text-col: "#F5FBFF"
 navbar-border-col: "#DDDDDD"
-footer-col: "#C1DFF0"
-footer-text-col: "#777777"
+footer-col: "#3587A4"
+footer-text-col: "#F5FBFF"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
