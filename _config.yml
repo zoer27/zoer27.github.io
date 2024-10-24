@@ -28,7 +28,7 @@ navbar-links:
     - Estimating natural survival of blue whales: "https://zoer27.github.io/currentprojects/BWsurv"
   Education and Outreach: "https://zoer27.github.io/outreach/outreach"
   Blog: "https://zoer27.github.io/blog/"
-  CV: "assesst/RandCV.pdf"
+  CV: "assests/RandCV.pdf"
 
 #add for blog not on home page  
 paginate_path: "/blog/page:num/"
