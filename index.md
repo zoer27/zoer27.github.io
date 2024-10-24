@@ -1,14 +1,16 @@
 ---
-layout: page
+layout: home
 title: About me
 ---
-![]("https://zoer27.github.io/assets/img/profile.jpg")
+
+<img style="float: right;" src="https://zoer27.github.io/assets/img/profile.jpg">
 
 I am a Phd Student in Quantitative Ecology and Resource Management (QERM) at the University of Washington in the [Branch Lab](https://fish.uw.edu/faculty/trevor-branch). 
 I am also a 2023 [NMFS-Sea Grant Population and Ecosystem Dynamics Fellow](https://seagrant.noaa.gov/nmfs-sg-fellowship/).
 
 I use mathematical and statistical models to study the population dynamics of baleen whales. 
 My focus is on using historical data and integrating multiple data sources to overcome biases inherent in historical data.
+
 
 ## Education
 
