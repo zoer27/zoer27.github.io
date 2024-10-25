@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-<img style="display: block; " src="https://zoer27.github.io/assets/img/profile.jpg" width="230" height="300" align = "right">
+<img style="display: block; " src="https://zoer27.github.io/assets/img/profile.jpg" width="60%" align = "right">
 
 I am a Phd Student in Quantitative Ecology and Resource Management (QERM) at the University of Washington in the [Branch Lab](https://fish.uw.edu/faculty/trevor-branch). 
 I am also a 2023 [NMFS-Sea Grant Population and Ecosystem Dynamics Fellow](https://seagrant.noaa.gov/nmfs-sg-fellowship/).

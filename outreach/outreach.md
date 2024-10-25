@@ -3,7 +3,7 @@ layout: page
 title: Outreach and Teaching
 ---
 <figure align = "right">
-  <img style="display: block; margin: 10px 20px 10px 20px" src="https://zoer27.github.io/assets/img/IBISsymposium.jpg" width= "50%">
+  <img style="display: block; margin: 10px 20px 10px 20px" src="https://zoer27.github.io/assets/img/IBISsymposium.jpg" width= "40%" align = "right">
 </figure>
 
 ## Outreach
