@@ -2,9 +2,10 @@
 layout: page
 title: Movement of Antarctic blue whales
 ---
-<figure>
-  <img style="display: block; margin: 10px 20px 10px 20px" src="https://zoer27.github.io/assets/img/discoverymark.jpg" width="300" height="150" align = "left">
-  <figcaption>Discovery mark (Photo from International Whaling Commission).</figcaption>
+
+<figure align = "left">
+  <img style="display: block; margin: 10px 20px 10px 20px" src="https://zoer27.github.io/assets/img/discoverymark.jpg" width= "50%">
+  <figcaption style = "font-size:8px;">Discovery mark (Photo from International Whaling Commission).</figcaption>
 </figure>
 
 
