@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Zoe Rand
 ---
 
 <img style="display: block; " src="https://zoer27.github.io/assets/img/profile.jpg" width="30%" align = "right">
