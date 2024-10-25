@@ -2,8 +2,10 @@
 layout: page
 title: Movement of Antarctic blue whales
 ---
-
-![Photo: International Whaling Commission]("../assets/img/discoverymark.jpg")
+<figure>
+  <img style="display: block; margin: 10px 20px 10px 20px" src="https://zoer27.github.io/assets/img/discoverymark.jpg" width="300" height="150" align = "left">
+  <figcaption>Discovery mark (Photo from International Whaling Commission).</figcaption>
+</figure>
 
 
 Antarctic blue whales (*Balaenoptera musculus intermedia*) were hunted nearly to the brink of extinction during 20th century whaling. Effective management of this recovering population requires a better understanding of population structure to test the long-standing assumption that they are a single circumpolar population.
