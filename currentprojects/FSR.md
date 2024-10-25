@@ -2,10 +2,12 @@
 layout: page
 title: Fetal sex ratios of baleen whales
 ---
-<figure align = "right">
-  <img style="display: block; margin: 10px 20px 10px 20px" src="https://zoer27.github.io/assets/img/humpbackfetus.jpg" width= "50%">
-  <figcaption style = "font-size:8px;"> Humpback whale fetus (Photo from South Georgia Museum).</figcaption>
+
+<figure align = "right" width = "100%">
+  <img style="display: block; margin: 10px 0px 0px 20px" src="https://zoer27.github.io/assets/img/humpbackfetus.jpeg" width= "50%" align = "right">
+  <figcaption style = "font-size:8px;" align = "right"> Humpback whale fetus (Photo from South Georgia Museum).</figcaption>
 </figure>
+
 
 It is often assumed that sex ratios of mammals at birth are 50:50. This seems logical, as biased sex ratios are likely to return to equilibrium since those producing the rare sex would have higher lifetime reproductive success. However, there are many theories as to how individuals may adapt fetal sex ratios to account for variable body condition, competition, or cooperative behavior. These theories are hard to test because there are few large-scale datasets of fetal sexes from wild mammal populations. Large cetaceans were heavily exploited by whaling in the 20th century. Though this decimated many populations of whales, data gathered during this exploitation provides an extensive record of fetal sexes. Using Bayesian models, I investigate biases in the data arising from difficulty in identifying the sex of small fetuses. Additionally, I explore the possibility of adaptive sex ratio behavior in rorqual (family Balaenopteridae) whales using generalized linear mixed models (GLMM) implemented in a Bayesian framework. This work is the first to investigate adaptive sex ratio behavior in large cetaceans, and can lead to a better understanding of reproductive and mating behavior.
 
