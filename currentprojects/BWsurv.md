@@ -3,7 +3,7 @@ layout: page
 title: Estimating natural survival of blue whales
 ---
 <figure align = "left">
-  <img style="display: block;" src="https://zoer27.github.io/assets/img/pygmybluewhale.jpg" width= "60%" align = "center">
+  <img style="display: block;" src="https://zoer27.github.io/assets/img/pygmybluewhale.jpg" width= "100%" align = "center">
   <figcaption style = "font-size:8px;">Pygmy blue whale (Photo credit: Andrew Sutton, Shutterstock).</figcaption>
 </figure>
 
