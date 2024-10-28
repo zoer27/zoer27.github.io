@@ -31,7 +31,7 @@ navbar-links:
   CV: "https://zoer27.github.io/assets/RandCV.pdf"
 
 #add for blog not on home page  
-paginate_path: "/blog/page:num/"
+paginate_path: "https://zoer27.github.io/blog/page:num/"
 ################
 # --- Logo --- #
 ################
