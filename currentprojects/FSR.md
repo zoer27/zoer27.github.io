@@ -3,9 +3,10 @@ layout: page
 title: Fetal sex ratios of baleen whales
 ---
 
-<figure align = "right">
-  <img style="display: block; margin: 10px 0px 0px 20px" src="https://zoer27.github.io/assets/img/humpbackfetus.jpeg" width= "30%" align = "right">
-  <figcaption style = "font-size:8px;"> Humpback whale fetus (Photo from South Georgia Museum)</figcaption>
+<figure >
+  <img style="display: block; float: right" src="https://zoer27.github.io/assets/img/humpbackfetus.jpeg" width = "30%" align = "right"> 
+  
+  <figcaption style = "font-size:8px; text-align: right; float:bottom; "> Humpback whale fetus (Photo from South Georgia Museum)</figcaption>
 </figure>
 
 
