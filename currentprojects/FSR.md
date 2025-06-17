@@ -14,6 +14,6 @@ It is often assumed that sex ratios of mammals at birth are 50:50. This seems lo
 
 Preliminary results from this work were presented at the [International Whaling Commission Scientific Committee meeting in 2023](https://archive.iwc.int/pages/download.php?ref=20052&ext=pdf&alternative=6439&noattach=true) as well as at the [Society for Marine Mammalogy Biennial Conference in 2024.](https://github.com/zoer27/rorqual-whale-fetal-sex-ratios/blob/main/Poster_SMM2024.pdf)
 
-Rand, Z. R., Branch, T. A., Converse, S. J. (2024). Battle of the sexes: larger rorqual whale mothers invest in female offspring to maximize lifetime reproductive success. Proceedings of the Royal Society B. In review.
+Rand, Z. R., Branch, T. A., Converse, S. J. (2025). Battle of the sexes: larger rorqual whale mothers invest in female offspring to maximize lifetime reproductive success. Proceedings of the Royal Society B. In review.
  
 
