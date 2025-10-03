@@ -1,0 +1,28 @@
+---
+layout: page
+title: "Current research"
+---
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+
+
+{% for currentresearch in site.currentresearch %}
+<div class = "researchitem">
+  <h2>
+    <a href="{{ currentresearch.url }}">
+      {{ currentresearch.title }} 
+    </a>
+  </h2>
+</div>
+<div class="researchimg">
+    <img
+      src="https://zoer27.github.io/assets/img/{{ currentresearch.slug }}_small.jpg"
+      alt="{{currentresearch.slug}} research teaser"
+    />
+</div>
+<div class = "researchdesc">
+  <p> {{ currentresearch.subtitle }}</p>
+</div>
+{% endfor %}
+
