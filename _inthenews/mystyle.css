@@ -1,17 +1,13 @@
 
 .newsitem {
-  margin-top: 0rem;
-  margin-bottom: 0rem;
+  font-size: 20px;
 }
 
 .newsitempub {
-  margin-top: 0rem;
-  margin-bottom: 0rem;
   font-weight: bold;
 }
 
 
 .newsitemdate  {
-  margin-top: 0rem;
  margin-bottom: 1rem;
 }
