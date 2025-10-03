@@ -1,0 +1,17 @@
+
+.researchitem {
+  float: right;
+}
+
+.researchdesc {
+  margin-bottom: 4em;
+}
+
+
+.researchimg img {
+  clear: both;
+  float: left;
+  width: 200px;
+  border: 1px;
+  margin-right: 2em;
+}
