@@ -1,0 +1,25 @@
+---
+layout: page
+title: In the News
+---
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+
+{% assign newsitem = site.inthenews | sort: "date" | reverse %}
+{% for news in newsitem %}
+<div class = "newsitem">
+  <h2>
+      <a href="{{ news.link }}">
+      {{ news.title }} 
+    </a>
+  </h2>
+</div>
+
+<div class = "newsitempub">
+  <p> {{ news.subtitle }}</p>
+</div>
+<div class = "newsitemdate">
+  <p> {{ news.date |date: "%B %-d, %Y"}}</p>
+</div>
+{% endfor %}

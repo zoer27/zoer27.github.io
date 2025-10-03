@@ -21,17 +21,25 @@ author: Zoe Rand
 
 navbar-links:
   About Me: "index"
-  Current Projects:
-    - Movement rates of Antarctic blue whales: "https://zoer27.github.io/currentprojects/ABWmove"
-    - Fetal sex ratios of baleen whales: "https://zoer27.github.io/currentprojects/FSR"
-    - Antarctic blue whale assessment: "https://zoer27.github.io/currentprojects/ABWAssess"
-    - Estimating natural survival of blue whales: "https://zoer27.github.io/currentprojects/BWsurv"
-  Education and Outreach: "https://zoer27.github.io/outreach/outreach"
+  Research: "currentresearch"
+  Teaching: "https://zoer27.github.io/outreach/outreach"
+  In the news: "inthenews"
   Blog: "blog"
   CV: "https://zoer27.github.io/assets/RandCV.pdf"
 
 #add for blog not on home page  
 paginate_path: "https://zoer27.github.io/blog/page:num/"
+
+#create collection
+collections:
+  currentresearch:
+    output: true
+    permalink: /:collection/:name
+    
+  inthenews:
+    output: true
+    permalink: /:collection/:name
+  
 ################
 # --- Logo --- #
 ################
