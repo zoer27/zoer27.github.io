@@ -5,11 +5,15 @@ title: Zoe Rand
 
 <img style="display: block; " src="https://zoer27.github.io/assets/img/profile.jpg" width="30%" align = "right">
 
-I am a Phd Student in Quantitative Ecology and Resource Management (QERM) at the University of Washington in the [Branch Lab](https://fish.uw.edu/faculty/trevor-branch). 
-I am also a 2023 [NMFS-Sea Grant Population and Ecosystem Dynamics Fellow](https://seagrant.noaa.gov/nmfs-sg-fellowship/).
+I am a 2026 [Washington Research Foundation Postdoctoral Fellow](https://www.wrfseattle.org/grants/fellows) in the [Kelly lab](http://kellyresearchlab.com) at the University of Washington.  
+I completed my PhD in Quantitative Ecology and Resource Management (QERM) at the University of Washington as part of the [Branch Lab](https://fish.uw.edu/faculty/trevor-branch). 
+I was a 2023 [NMFS-Sea Grant Population and Ecosystem Dynamics Fellow](https://seagrant.noaa.gov/nmfs-sg-fellowship/).
 
-I use mathematical and statistical models to study the population dynamics of baleen whales. 
-My focus is on using historical data and integrating multiple data sources to overcome biases inherent in historical data.
+I use mathematical and statistical models to understand the population dynamics of marine species. My focus is on using multiple data sources and creative quantitative techniques to overcome challenges in analyzing ecological data to answer questions related to human impacts and conservation. 
+I work collaboratively with scientists at the University of Washington, the Northwest Fisheries Science Center (NOAA), and the International Whaling Commission.
+During my postdoc, I am modeling environmental DNA of phytoplankton in order to better monitor and predict harmful algal blooms (HABs). 
+During my PhD, I used historical whaling data to answer long-standing questions about baleen whale demography and population status. 
+
 
 
 ## Education
@@ -18,7 +22,7 @@ My focus is on using historical data and integrating multiple data sources to ov
 
 PhD in Quantitative Ecology and Resource Management \| 
 
-Sep 2020 - Present 
+Sep 2020 - March 2026 
 
  **University of St Andrews** \| St Andrews, Fife, UK   
 
