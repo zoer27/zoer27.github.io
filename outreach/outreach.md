@@ -33,7 +33,7 @@ Fall 2024: Covered basic plotting techniques using ggplot in R.
 
 ### Conservation and Management of Aquatic Resources
 
-Winter 2025: Covered history of whaling and the development of the International Whaling Commission and it's management strategy.
+Winter 2025 & 2026: Covered history of whaling and the development of the International Whaling Commission and it's management strategy.
 
 ### Evolutionary Ecology of Marine Mammals
 
